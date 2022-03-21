@@ -1,0 +1,7 @@
+.list-container {
+  background: 'LIGHTGRAY';
+  padding: '8px';
+  display: 'flex';
+  flex-direction: 'column';
+  row-gap: '8px';
+}
